@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo
-        image: smrutisw2001/todoimage
+        image: smrutisw2001/todoimage:latest
         ports:
         - containerPort: 8000
 ~                           
